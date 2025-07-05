@@ -18,7 +18,17 @@ A local, transformer-powered chatbot that answers questions based on editorial a
 
 ### 1. Clone the Repository
 
-'''bash
+```bash
 git clone https://github.com/your-username/vox-iitk-chatbot.git
 cd vox-iitk-chatbot
-'''bash
+```
+### 2. Run the $ runner.py $ script to load the embeddings.pkl and faiss.index file.
+Note : Make sure in the current folder while loading this
+
+### 3. Type the following in the command prompt :
+```bash
+streamlit run app.py
+```
+Note : Again make sure you are in the same folder as of embeddings.pkl and faiss.index to run the bot
+
+### 4. Done. The Bot opens in a new browser tab
