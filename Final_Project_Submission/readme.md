@@ -1,10 +1,10 @@
 # 📚 Vox Populi IITK Chatbot
 
-A local, transformer-powered chatbot that answers questions based on editorial articles from Vox Populi, IIT Kanpur. It uses semantic search with FAISS, BERT for extraction, and Mistral-7B for natural language generation. The interface is built using Streamlit.
+A local, transformer-powered chatbot that answers questions based on editorial articles from Vox Populi, IIT Kanpur. It uses semantic search with FAISS, BERT for extraction, and Flan-T5 for natural language generation. The interface is built using Streamlit.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Context-aware answers from Vox editorial content
 - Fast semantic search using FAISS
@@ -14,7 +14,7 @@ A local, transformer-powered chatbot that answers questions based on editorial a
 
 ---
 
-## 📦 Installation
+## 📦Installation
 
 ### 1. Clone the Repository
 
