@@ -18,7 +18,7 @@ A local, transformer-powered chatbot that answers questions based on editorial a
 
 ### 1. Clone the Repository
 
-```bash
+'''bash
 git clone https://github.com/your-username/vox-iitk-chatbot.git
 cd vox-iitk-chatbot
-
+'''bash
