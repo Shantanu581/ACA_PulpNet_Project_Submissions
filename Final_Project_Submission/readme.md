@@ -9,7 +9,7 @@ A local, transformer-powered chatbot that answers questions based on editorial a
 - Context-aware answers from Vox editorial content
 - Fast semantic search using FAISS
 - Accurate extractive QA with BERT
-- Natural response generation using Mistral-7B
+- Natural response generation using Flan-T5
 - Clean Streamlit frontend
 
 ---
@@ -22,7 +22,7 @@ A local, transformer-powered chatbot that answers questions based on editorial a
 git clone https://github.com/your-username/vox-iitk-chatbot.git
 cd vox-iitk-chatbot
 ```
-### 2. Run the $ runner.py $ script to load the embeddings.pkl and faiss.index file.
+### 2. Run the ` runner.py ` script to load the ` embeddings.pkl ` and ` faiss.index ` file.
 Note : Make sure in the current folder while loading this
 
 ### 3. Type the following in the command prompt :
