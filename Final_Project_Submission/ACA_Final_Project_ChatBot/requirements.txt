@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+sentence-transformers
+scikit-learn
+faiss-cpu
+requests
+beatifulsoup4
+json
+numpy
+pickle
+glob
